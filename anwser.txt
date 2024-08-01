@@ -1,0 +1,6 @@
+a) Ghi vào đó nội dung: là câu trả lời cho câu hỏi sau: Câu lệnh để cài đặt email và name là gì?
+git config --global user.email "your_email@example.com"
+git config --global user.name "Your Name"
+
+b) Setup lại name của bạn về "K8 - <tên của bạn>"
+git config --global user.name "K8 - Nam"  
