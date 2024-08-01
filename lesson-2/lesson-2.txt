@@ -1,0 +1,11 @@
+git init
+Khởi tạo Git repository mới
+
+git add <file_name>
+Thêm 1 file cụ thể vào repository 
+
+git add .
+Thêm tất cả các thay đổi của file vào repository
+
+git commit -m “message”
+Lưu lại các thay đổi bằng 1 thông điệp như fixbug/feature
