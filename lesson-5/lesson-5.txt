@@ -1,0 +1,17 @@
+1/Cấu trúc DOM cơ bản của một trang web bao gồm các thẻ gì?
+Cấu trúc  Dom gồm:
+Thẻ mở <h1
+Thẻ đóng /h1>
+Thuộc tính input, value
+Giá trị của thuộc tính input ="123"
+Text: <h1 input = "123"> Test </h1>
+2/Hãy mô tả cấu trúc html của 1 bảng (table)
+
+Thẻ<div> để chia khố website
+thẻ <h1></h1> -> h6 viết tắt của heading
+Thẻ <form></form> để chứa thông tin
+Thẻ input: Để nhập
+thẻ textarea: thẻ nhập có thẻ kéo thả độ to rộng của ô input
+thẻ list và dropdown: để chứa xanh sách các giá trị
+thẻ table: có bảng
+thẻ checkbox: để chọn multi dữ liệu
